@@ -1,4 +1,4 @@
-# Basic Game Engine
+i# Basic Game Engine
 - 2d pixel art based game Engine
 - Runs on browser via Html
 
@@ -14,3 +14,7 @@ FUNCTIONALITY
 - Press "I" keyword to open/close Inventory.
 - Press "C" keyword for Character stats.
 
+That's all the functions/methods added in it for now ..
+
+NOTE:
+it's just a basic game Engine which only runs over Local browser but trying best to learn and improve it everyday until it becomes an actual game.
