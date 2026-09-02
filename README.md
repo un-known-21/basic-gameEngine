@@ -1,5 +1,4 @@
 # Basic Game Engine
-# gameEngine
 - 2d pixel art based game Engine
 - Runs on browser via Html
 
